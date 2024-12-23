@@ -1,7 +1,7 @@
 ## Hi, This is Bhawani 👋
 - 💻 Software Enthusiast passionate about building scalable systems.
 - 🌱 Exploring areas include Smart Contracts, Block Chain, Augmented Reality & Mobile Apps.
-- 🎯 Target is to create world class EdTech Platform.
+- 🎯 Target is to create world class Platform specif softwares.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bhawani&theme=onestar&no-frame=true&row=1&column=3)
 
